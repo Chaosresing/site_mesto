@@ -1,0 +1,15 @@
+.aut__form-link {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 17px;
+  color: #fff;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+@media (max-width: 768px ) {
+  .aut__form-link {
+    padding-top: 20px;
+  }
+}

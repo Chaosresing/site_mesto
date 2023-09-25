@@ -1,0 +1,9 @@
+.notPage__link {
+  display: block;
+  padding-top: 30px;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}

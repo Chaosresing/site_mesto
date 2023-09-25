@@ -1,0 +1,11 @@
+.plases-card__like-button {
+  height: 19px;
+  width: 22px;
+  background-image: url(../../../../images/like.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding-top: 10px;
+  background-color: transparent;
+}

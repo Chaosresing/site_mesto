@@ -1,0 +1,14 @@
+.aut {
+  width: 358px;
+  padding-top: 60px;
+  margin: 0 auto;
+  color:  #fff;
+  height: 650px;
+}
+
+@media (max-width: 768px ) {
+  .aut {
+    width: 260px;
+    padding-top: 40px; 
+  }
+}

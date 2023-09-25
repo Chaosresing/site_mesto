@@ -1,0 +1,23 @@
+.popup__input {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  border: none;
+  width: 358px;
+  height: 27px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  margin-top: 30px;
+  outline:none;
+}
+
+#popup__link-place-error {
+  padding-bottom: 48px;
+}
+
+@media (max-width:768px) {
+  .popup__input {
+    font-size: 14px;
+    line-height: 17px;
+    width: 238px;
+  }
+}

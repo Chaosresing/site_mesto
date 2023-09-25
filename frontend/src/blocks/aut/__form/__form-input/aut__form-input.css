@@ -1,0 +1,12 @@
+.aut__form-input {
+  margin-bottom: 30px;
+  height: 27px;
+  background: none;
+  border-style: none;
+  outline:none;
+  border-bottom: 2px solid #ccc;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ccc;
+  font-weight: 400;
+}

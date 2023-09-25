@@ -1,0 +1,18 @@
+.popup__input-error {
+  display: none;
+  color: #FF0000;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  padding-top: 5px;
+  text-align: left;
+  width: 358px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px){
+  .popup__input-error {
+    width: 238px;
+  }
+}

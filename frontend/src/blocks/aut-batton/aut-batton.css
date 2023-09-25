@@ -1,0 +1,7 @@
+.aut-batton {
+  transition: opacity .5s linear;
+}
+
+.aut-batton:hover {
+opacity: 0.85;
+}

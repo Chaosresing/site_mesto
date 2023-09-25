@@ -1,0 +1,7 @@
+.plases-card__card-title {
+  display: flex;
+  padding-left: 21px;
+  justify-content:space-between;
+  align-items: flex-start;
+  max-width: 246px;
+}

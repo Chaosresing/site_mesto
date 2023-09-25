@@ -1,0 +1,21 @@
+.aut__form-button {
+  height: 50px;
+  border-radius: 2px;
+  background: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000;
+  font-weight: 400;
+  border-style: none;
+  margin-top: 184px;
+}
+
+@media (max-width: 768px ) {
+  .aut__form-button {
+    width: 260px;
+    height: 46px;
+    font-size: 16px;
+    line-height: 19px; 
+    margin-top: 190px;  
+  }
+}

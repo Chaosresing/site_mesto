@@ -1,0 +1,7 @@
+.hover-batton {
+  transition: opacity .5s linear;
+}
+
+.hover-batton:hover {
+opacity: 0.8;
+}

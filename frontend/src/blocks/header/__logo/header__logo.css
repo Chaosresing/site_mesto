@@ -1,0 +1,12 @@
+.header__logo {
+  padding-bottom: 41px;
+}
+
+@media (max-width:767px ){
+  .header__logo {
+    max-width: 104px;
+    padding-left: 27px;
+    padding-bottom: 31px;
+    align-self: flex-start;
+  }
+}

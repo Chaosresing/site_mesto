@@ -1,0 +1,17 @@
+.profile {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 120px minmax(350px, 550px) 150px;
+  grid-template-rows: 120px;
+  column-gap: 30px;
+  padding-top: 40px;
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .profile {
+    display: flex;
+    flex-direction:column;
+  }
+}

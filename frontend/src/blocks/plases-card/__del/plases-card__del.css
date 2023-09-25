@@ -1,0 +1,13 @@
+.plases-card__del {
+  position: relative;
+  right: -242px;
+  top: -262px;
+  cursor: pointer;
+  background-image: url(../../../images/Trash.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 18px;
+  height: 19px;
+  background-color: rgba(0,0,0, 0);
+  border: none;
+}
